@@ -1,0 +1,35 @@
+@import url('rel="stylesheet"');
+body{
+  background-color: #000000;
+  color: #ff6600;
+  font-family: "Gelasio", serif;
+}
+
+h1{
+  color:  #006666;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 2px;
+  font-weight: normal;
+  font-style: oblique;
+  font-size: 50px;
+  background-color: yellow;
+  border: 8px dotted orange;
+  padding: 15px 0;
+  margin-bottom: 60px;
+}
+#first-list{
+  color: pink;
+  font-style: italic;
+}
+#second-list{
+  color: green;
+  font-style: bold;
+}
+first-list li {
+  display: inline-block;
+  margin: 20px;
+}
+a {
+  color: pink;
+}
